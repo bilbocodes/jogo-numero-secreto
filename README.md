@@ -26,9 +26,9 @@ Você pode executar o jogo localmente em seu próprio ambiente de desenvolviment
 
 ## Visualizando Online 🌐
 
-Você também pode jogar o Jogo de Adivinhação de Números online usando o GitHub Pages. Basta acessar o seguinte link:
+Você também pode jogar o Jogo do Número Secreto online usando o Vercel. Basta acessar o seguinte link:
 
-[**Jogar o Jogo de Adivinhação de Números Online**](https://bilbocodes.github.io/jogo-numero-secreto/)
+[**Jogar o Jogo de Adivinhação de Números Online**](https://jogo-numero-secreto-pi-silk.vercel.app/))
 
 ## Contribuindo 🙌
 
